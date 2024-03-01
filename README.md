@@ -51,10 +51,11 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### SERVER OUTPUT:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/a89b0d25-0b41-4b95-9eeb-9c7f6ed92533)
+<img width="299" alt="Screenshot 2024-03-01 110408" src="https://github.com/Prasanna-936/Echoserver/assets/130341982/7b223cab-0005-447e-86d5-64911f3281b6">
+
 
 ### CLIENT SIDE:
-![image](https://github.com/pradeepasri26/Echoserver/assets/131433142/802600e0-45fe-4a33-9388-e123fbdc7087)
+<img width="305" alt="Screenshot 2024-03-01 110433" src="https://github.com/Prasanna-936/Echoserver/assets/130341982/027616af-4a41-45e0-afc3-e267db7cffe6">
 
 
 ## RESULT:
